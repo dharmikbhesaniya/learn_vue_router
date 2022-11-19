@@ -2,7 +2,7 @@
 
 # learn_vue_dynemic_router
 
-# learn_vue_404
+# learn_vue_404_page
 
 ## Project setup
 
